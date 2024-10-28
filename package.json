@@ -1,0 +1,16 @@
+{
+  "name": "learning_to-learn",
+  "version": "1.0.0",
+  "description": "Meu primeiro repositório no GitHub! == My first repository on GitHub!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
